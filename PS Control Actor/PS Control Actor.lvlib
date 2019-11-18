@@ -17,6 +17,7 @@
 		<Item Name="Start or stop continuous status updates Msg.lvclass" Type="LVClass" URL="../../PS Control Actor Messages/Start or stop continuous status updates Msg/Start or stop continuous status updates Msg.lvclass"/>
 		<Item Name="Update Mode Menu Items Msg.lvclass" Type="LVClass" URL="../../PS Control Actor Messages/Update Mode Menu Items Msg/Update Mode Menu Items Msg.lvclass"/>
 		<Item Name="Write Staff mode Msg.lvclass" Type="LVClass" URL="../../PS Control Actor Messages/Write Staff mode Msg/Write Staff mode Msg.lvclass"/>
+		<Item Name="Init from PS Msg.lvclass" Type="LVClass" URL="../../PS Control Actor Messages/Init from PS Msg/Init from PS Msg.lvclass"/>
 	</Item>
 	<Item Name="PS Control Actor.lvclass" Type="LVClass" URL="../PS Control Actor.lvclass"/>
 </Library>

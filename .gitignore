@@ -1,0 +1,5 @@
+.DS_Store
+.csync_journal.db
+.csync_journal.db-journal
+.owncloudsync.log
+.SCM PS config.ini.swp

@@ -41,14 +41,9 @@
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
 				<Item Name="subFile Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
 				<Item Name="LVStringsAndValuesArrayTypeDef_U16.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVStringsAndValuesArrayTypeDef_U16.ctl"/>
-				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
 				<Item Name="VISA Lock Async.vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Lock Async.vi"/>
 				<Item Name="NI_SystemLogging.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/SystemLogging/NI_SystemLogging.lvlib"/>
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
-				<Item Name="Select Event Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/Select Event Type.ctl"/>
-				<Item Name="Wait for RQS.VI" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/Wait for RQS.VI"/>
-				<Item Name="VISA GPIB Control REN Mode.ctl" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA GPIB Control REN Mode.ctl"/>
-				<Item Name="VISA Open Access Mode.ctl" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Open Access Mode.ctl"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="MD5 Message Digest (Binary String)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/md5/md5.llb/MD5 Message Digest (Binary String)__ogtk.vi"/>
@@ -66,29 +61,11 @@
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
 			<Item Name="Password dialog.vi" Type="VI" URL="../PS Control Actor/Password dialog.vi"/>
-			<Item Name="Get Server Port Number.vi" Type="VI" URL="../../Sub VIs/Get Server Port Number.vi"/>
-			<Item Name="LV Versions Enum.ctl" Type="VI" URL="../../Sub Controls/LV Versions Enum.ctl"/>
-			<Item Name="Extract Double From String.vi" Type="VI" URL="../../Sub VIs/Extract Double From String.vi"/>
-			<Item Name="Set LV TCP-IP Server Port.vi" Type="VI" URL="../../Sub VIs/Set LV TCP-IP Server Port.vi"/>
-			<Item Name="shfolder.dll" Type="Document" URL="shfolder.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
 			<Item Name="VISA Write with Terminator.vi" Type="VI" URL="../../VISA stuff/VISA Write with Terminator.vi"/>
-			<Item Name="SHGetFolderPath.vi" Type="VI" URL="../../Sub VIs/Get Shared Data Dir/SHGetFolderPath.vi"/>
-			<Item Name="SHGetFolderPath Errors.ctl" Type="VI" URL="../../Sub VIs/Get Shared Data Dir/SHGetFolderPath Errors.ctl"/>
-			<Item Name="SHGetFolderPath Return Error.vi" Type="VI" URL="../../Sub VIs/Get Shared Data Dir/SHGetFolderPath Return Error.vi"/>
-			<Item Name="systemLogging.framework" Type="Document" URL="systemLogging.framework">
+			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/dialog/lvconfig.llb/LV Config Read String.vi"/>
+			<Item Name="systemLogging.dll" Type="Document" URL="systemLogging.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/dialog/lvconfig.llb/LV Config Read String.vi"/>
-			<Item Name="Wait+.vi" Type="VI" URL="../../Sub VIs/Wait+.vi"/>
-			<Item Name="mS Timer+.vi" Type="VI" URL="../../Sub VIs/mS Timer+.vi"/>
-			<Item Name="NML Assert Ren.vi" Type="VI" URL="../../VISA stuff/NML Assert Ren.vi"/>
-			<Item Name="VISA Session Status.ctl" Type="VI" URL="../../Sub Controls/VISA Session Status.ctl"/>
-			<Item Name="NML VISA Open.vi" Type="VI" URL="../../VISA stuff/NML VISA Open.vi"/>
-			<Item Name="NML VISA Open Conditional.vi" Type="VI" URL="../../VISA stuff/NML VISA Open Conditional.vi"/>
-			<Item Name="NML VISA Close.vi" Type="VI" URL="../../VISA stuff/NML VISA Close.vi"/>
-			<Item Name="NML Async Lock.vi" Type="VI" URL="../../VISA stuff/NML Async Lock.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

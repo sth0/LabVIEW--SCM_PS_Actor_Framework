@@ -86,11 +86,11 @@
 	<Item Name="Press Enter Key and wait.vi" Type="VI" URL="../Press Enter Key and wait.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;=!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%J!=!!?!!!K$V"4)%2S;8:F=CZM&gt;GRJ9BB15S"%=GFW:8)A15V*.(BY,GRW9WRB=X-!!"215S"%=GFW:8)A15V*.(BY)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1")1(!!(A!!+A^15S"%=GFW:8)O&lt;(:M;7)95&amp;-A2(*J&gt;G6S)%&amp;.342Y?#ZM&gt;G.M98.T!!!45&amp;-A2(*J&gt;G6S)%&amp;.342Y?#"J&lt;A"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q-!!(A!!!U)!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!#A!!$1!!!!Q!!!!!!!!!!!!!!1!)!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">8389136</Property>
 	</Item>
 	<Item Name="RampRate.vi" Type="VI" URL="../RampRate.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;^!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"F!#A!45G&amp;N=#"S982F)'^V&gt;#!I13^T+1"+1(!!(A!!+A^15S"%=GFW:8)O&lt;(:M;7)95&amp;-A2(*J&gt;G6S)%&amp;.342Y?#ZM&gt;G.M98.T!!!55&amp;-A2(*J&gt;G6S)%&amp;.342Y?#"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;5!+!!^397VQ)(*B&gt;'5A+%%P=SE!3%"Q!"Y!!#I05&amp;-A2(*J&gt;G6S,GRW&lt;'FC'&amp;"4)%2S;8:F=C""45EU?(AO&lt;(:D&lt;'&amp;T=Q!!%V"4)%2S;8:F=C""45EU?(AA;7Y!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!)!!E$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!#!!!!*)!!!!!!1!+!!!!!!</Property>
@@ -122,11 +122,11 @@
 	<Item Name="Read PS Rate.vi" Type="VI" URL="../Read PS Rate.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;E!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"6!#A!05G&amp;N=#"S982F)#B",X-J!%J!=!!?!!!K$V"4)%2S;8:F=CZM&gt;GRJ9BB15S"%=GFW:8)A15V*.(BY,GRW9WRB=X-!!"215S"%=GFW:8)A15V*.(BY)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1")1(!!(A!!+A^15S"%=GFW:8)O&lt;(:M;7)95&amp;-A2(*J&gt;G6S)%&amp;.342Y?#ZM&gt;G.M98.T!!!45&amp;-A2(*J&gt;G6S)%&amp;.342Y?#"J&lt;A"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!E!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">128</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1115685392</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">268972560</Property>
 	</Item>
 	<Item Name="Setpoint.vi" Type="VI" URL="../Setpoint.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'X!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"&gt;!#A!15W6U='^J&lt;H1A&lt;X6U)#B"+1!!;%"Q!"Y!!#I05&amp;-A2(*J&gt;G6S,GRW&lt;'FC'&amp;"4)%2S;8:F=C""45EU?(AO&lt;(:D&lt;'&amp;T=Q!!-V"4)%2S;8:F=C""45EU?(AO&lt;(:M;7)[5&amp;-A2(*J&gt;G6S)%&amp;.342Y?#ZM&gt;G.M98.T)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!".!#A!-5W6U='^J&lt;H1A7U&amp;&gt;!!"I1(!!(A!!+A^15S"%=GFW:8)O&lt;(:M;7)95&amp;-A2(*J&gt;G6S)%&amp;.342Y?#ZM&gt;G.M98.T!!!S5&amp;-A2(*J&gt;G6S)%&amp;.342Y?#ZM&gt;GRJ9DJ15S"%=GFW:8)A15V*.(BY,GRW9WRB=X-A;7Y!!&amp;1!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!#!!*!Q!!?!!!#1!!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!A!!!#3!!!!!!%!#A!!!!!</Property>
